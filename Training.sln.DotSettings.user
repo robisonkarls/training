@@ -1,0 +1,30 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=85995136_002D41ea_002D4839_002D88dd_002D2615b162941b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindMin1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a62f7108_002D6acb_002D4a17_002D9b31_002D2fe9dafd51f4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.GeneralTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.SolutionsTests.IsValidSerialization5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindLUSlengthTests.FindLuSLengthTest2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin6&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindMinTests.FindMin7&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.GenerateTreesTests.GenerateTrees&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.GenerateTreesTests.GenerateTrees1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.GenerateTreesTests.GenerateTrees3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindWheelsTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F6EE9FB-B19B-40CA-8578-83D6880FC7BC::net5.0::TrainingTests.FindWheelsTests.Test2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

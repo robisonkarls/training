@@ -1,0 +1,12 @@
+C:\dev\Training\Training\bin\Debug\net5.0\Training.deps.json
+C:\dev\Training\Training\bin\Debug\net5.0\Training.dll
+C:\dev\Training\Training\bin\Debug\net5.0\ref\Training.dll
+C:\dev\Training\Training\bin\Debug\net5.0\Training.pdb
+C:\dev\Training\Training\obj\Debug\net5.0\Training.csprojAssemblyReference.cache
+C:\dev\Training\Training\obj\Debug\net5.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Training\Training\obj\Debug\net5.0\Training.AssemblyInfoInputs.cache
+C:\dev\Training\Training\obj\Debug\net5.0\Training.AssemblyInfo.cs
+C:\dev\Training\Training\obj\Debug\net5.0\Training.csproj.CoreCompileInputs.cache
+C:\dev\Training\Training\obj\Debug\net5.0\Training.dll
+C:\dev\Training\Training\obj\Debug\net5.0\ref\Training.dll
+C:\dev\Training\Training\obj\Debug\net5.0\Training.pdb
